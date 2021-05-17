@@ -1,1 +1,2 @@
-# API
+# IMDb Clone Web Application
+
